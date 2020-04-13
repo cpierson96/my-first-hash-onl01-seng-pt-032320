@@ -1,5 +1,5 @@
 def my_hash
-{}
+{"cat"=>"Mimi"}
   
 end
 
